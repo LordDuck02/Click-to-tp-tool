@@ -1,7 +1,3 @@
---[
-### Tp-Tool script
---]
-
 mouse = game.Players.LocalPlayer:GetMouse()
 tool = Instance.new("Tool")
 tool.RequiresHandle = false
